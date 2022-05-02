@@ -34,6 +34,7 @@
   "homepage": "https://t.me/GawrGuraSoporte",
   "dependencies": {
     "dedent-js": "^1.0.1",
+    "express": "^4.18.1",
     "jspack": "0.0.4",
     "millisecond": "^0.1.2",
     "nedb-promise": "^2.0.1",
