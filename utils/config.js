@@ -2,8 +2,8 @@
 'use strict';
 
 /** @type { import('../typings/config').Config } */
-// @ts-ignore
-const config = require('./config');
+
+const config = require('../config');
 const eq = require('./eq');
 
 const ms = require('millisecond');
