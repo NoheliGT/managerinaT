@@ -1,0 +1,13 @@
+{"status":"admin","warns":[],"first_name":"๖𝓝𝓸𝓱𝓮'𝓼 𝓰𝓻𝓮𝓶𝓸𝓻𝔂✧","last_name":"ㅤ","id":1701653200,"username":"gnohegremory","_id":"1rDk3U3tQ0VGqQgI","createdAt":{"$$date":1651379918587},"updatedAt":{"$$date":1651433120377}}
+{"status":"member","warns":[],"first_name":"Sara","last_name":"Vasquez","id":5364261840,"_id":"6AzHYknoLCw3AZws","createdAt":{"$$date":1651379918370},"updatedAt":{"$$date":1651379918572}}
+{"status":"member","warns":[],"first_name":"Pilar","last_name":"Valverde","id":1747911788,"_id":"6hrp2cA6dbe0lJFs","createdAt":{"$$date":1651424977734},"updatedAt":{"$$date":1651424977734}}
+{"status":"member","warns":[],"first_name":"Google Traductor","last_name":"","id":5356235562,"username":"traductorgobot","_id":"AqVEhY1E0qVDJovW","createdAt":{"$$date":1651379952673},"updatedAt":{"$$date":1651379952673}}
+{"status":"member","warns":[],"first_name":"Roͥssͣeͫe๖ۣۜƊoro☂ ","last_name":"","id":5191363792,"username":"rossedoro","_id":"C8PmRavS90Bziidj","createdAt":{"$$date":1651380325198},"updatedAt":{"$$date":1651433330041},"captcha":true}
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"status","unique":false,"sparse":false}}
+{"$$indexCreated":{"fieldName":"username","unique":false,"sparse":true}}
+{"status":"member","warns":[],"first_name":"Saku","last_name":"Lover","id":1187188121,"username":"onichancho","_id":"r46LwHPGM30ht4Ba","createdAt":{"$$date":1651519267431},"updatedAt":{"$$date":1651519267431}}
+{"status":"member","warns":[],"first_name":"Jessie","last_name":"Carriles","id":1979042083,"username":"mizuwj","_id":"vaDhh0azuMvL3oQ7","createdAt":{"$$date":1651519267438},"updatedAt":{"$$date":1651519267438}}
+{"status":"member","warns":[],"first_name":"Rina Tennoji","last_name":"","id":5234093543,"username":"rinatennoji_robot","_id":"b0Xh4To3mGnZhDgu","createdAt":{"$$date":1651519331925},"updatedAt":{"$$date":1651519331925}}
+{"status":"admin","warns":[],"first_name":"๖𝓝𝓸𝓱𝓮'𝓼 𝓰𝓻𝓮𝓶𝓸𝓻𝔂✧","last_name":"ㅤ","id":1701653200,"username":"gnohegremory","_id":"1rDk3U3tQ0VGqQgI","createdAt":{"$$date":1651379918587},"updatedAt":{"$$date":1651519609389}}
+{"status":"member","warns":[],"first_name":"Jessie","last_name":"Carriles","id":1979042083,"username":"mizuwj","_id":"vaDhh0azuMvL3oQ7","createdAt":{"$$date":1651519267438},"updatedAt":{"$$date":1651519873086},"captcha":true}
