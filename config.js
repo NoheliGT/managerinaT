@@ -138,7 +138,7 @@ const config = {
 
 	/**
 	 * @type {InlineKeyboard}
-	 * Inline keyboard to hbe added to warn message.
+	 * Inline keyboard to hbe addedd to warn message.
 	 * We use it to display button showing our rules.
 	 */
 	warnInlineKeyboard: [],
