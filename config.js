@@ -134,7 +134,7 @@ const config = {
 	 * List of plugin names to be loaded.
 	 * See Readme in plugins directory for more details.
 	 */
-	plugins: [],
+	plugins: ['captcha.ts', 'slowmode.ts'],
 
 	/**
 	 * @type {InlineKeyboard}
